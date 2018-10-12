@@ -80,7 +80,7 @@ header{
 	height: 800px;
 }
 .hero-1{
-	background-image: url(Hero-1.jpg);
+	background-image: url(./photos/Hero-1.jpg);
 	/* background-repeat: no-repeat; */
  	/* background-size: cover; */
   	/* background-position: center; */
@@ -320,7 +320,7 @@ header{
 		margin-top: 40px;
 	}
 	&__bg{
-		background-image: url(service.jpg);
+		background-image: url(./photos/service.jpg);
 		height: 400px;
 	}
 	&__content{
@@ -441,7 +441,7 @@ header{
 	height: 410px;
 	&__bg{
 		height:290px;
-		background-image: url(fun.jpg);
+		background-image: url(./photos/fun.jpg);
 		color:#fff;
 		& h1{
 			font-weight: 300;
