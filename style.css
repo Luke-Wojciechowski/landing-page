@@ -295,7 +295,7 @@ header {
     height: 280px;
     width: 370px; }
   .works-img-bg {
-    background-image: url(border.png);
+    background-image: url(./photos/border.png);
     height: 280px;
     width: 370px;
     display: inline-block; }
