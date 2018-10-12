@@ -29,6 +29,9 @@ body {
       transition: background 0.2s linear;
       background-image: linear-gradient(to bottom right, red, #212121); }
 
+#modal-item {
+  cursor: pointer; }
+
 .modal {
   display: none;
   position: fixed;

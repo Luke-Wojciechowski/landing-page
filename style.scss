@@ -37,6 +37,9 @@ body{
 	}
 }
 ///////* modal *///////
+#modal-item{
+	cursor:pointer;
+}
 .modal{
 	display: none;
 	position: fixed;
